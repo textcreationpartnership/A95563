@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No Mercurius Aulicus; but some merry flashes of intelligence, with the pretended Parliaments forces besiedging of Oxford foure miles off, and the terrible taking in of a mill, instead of the King and citie. Also the breaking of Booker, the asse-tronomicall London figure-flinger, his perfidious prediction failing, and his great conjunction of Saturne and Iupiter dislocated. / By John Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95563</idno>
+            <idno type="STC">Wing T489</idno>
+            <idno type="STC">Thomason E54_12</idno>
+            <idno type="STC">ESTC R209926</idno>
+            <idno type="EEBO-CITATION">99868772</idno>
+            <idno type="PROQUEST">99868772</idno>
+            <idno type="VID">155240</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155240)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E54[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No Mercurius Aulicus; but some merry flashes of intelligence, with the pretended Parliaments forces besiedging of Oxford foure miles off, and the terrible taking in of a mill, instead of the King and citie. Also the breaking of Booker, the asse-tronomicall London figure-flinger, his perfidious prediction failing, and his great conjunction of Saturne and Iupiter dislocated. / By John Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>L. Lichfield],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from Madan.</note>
+                  <note>A reply to: Booker, John.  A rope for a parret (Wing B3730).</note>
+                  <note>Annotation on Thomason copy: "July 10th.".</note>
+                  <note>Imperfect; lacks pages 3-6.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booker, John, 1603-1667. --  A rope for a parret.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155240:1" rendition="simple:additions"/>
+            <p>NO <hi>MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S A<g ref="char:V">Ʋ</g>LIC<g ref="char:V">Ʋ</g>S;</hi> But ſome merry flaſhes of Intelligence, with the Pretended PARLIAMENTS Forces beſiedging of <hi>OXFORD</hi> foure miles off, and the terrible taking in of a Mill, inſtead of the KING and CITIE.</p>
+            <p>Alſo the breaking of BOOKER, the Aſſe-tronomicall <hi>London</hi> Figure-flinger, his perfidious Prediction failing, and his great Conjunction of <hi>Saturne</hi> and <hi>Iupiter</hi> diſlocated.</p>
+            <p>By JOHN TAYLOR.</p>
+            <p>
+               <add>July 10<hi rend="sup">th.</hi>
+               </add> Printed in the Yeare. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155240:2" rendition="simple:additions"/>
+            <pb facs="tcp:155240:2" rendition="simple:additions"/>
+            <pb facs="tcp:155240:3"/>
+            <pb n="7" facs="tcp:155240:3"/>
+            <p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap> the miſerable miſſed People to believe once more in the unſaving <hi>Publique Faith,</hi> whereby they may be further cozened of the other 1 or 200000 <hi>l.</hi> to reward your mighty Commanders, and your Bre<g ref="char:EOLhyphen"/>thren the <hi>Scots,</hi> who do ſpeed as well in the <hi>North</hi> as the reſt have done about <hi>Oxford,</hi> is not to be feared or doubted.</p>
+            <p>Thus <hi>(Monſieur Bookerus)</hi> I have anatomized and skellitonized your railing Pamphlet and ridiculous Prediction: it is known too well, that the expectation of ſome miſchievous events was the ladder on which your meditations mounted. You were believed amongſt a company of <hi>catacoxcombrian</hi> Plebeians, as amongſt the Heathen the <hi>Delphian</hi> Oracle; amongſt many you were accounted as the Celeſtiall Bearward, and that <hi>
+                  <g ref="char:V">Ʋ</g>rſa major</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rſa minor</hi> were your Cubbes, the Dog-ſtarre was your Whelpe, for you brought him up of a pup<g ref="char:EOLhyphen"/>py. Maſter <hi>Booker, Taurus</hi> is your beſt game. <hi>Bull,</hi> and that is a Beaſt of your own breeding, it is ſuppoſed you ſucked him ſince the firſt time he was a Moon-Calfe; <hi>Iupiters</hi> thunder is your Taber, <hi>Mercu<g ref="char:EOLhyphen"/>ry</hi> is your Bagpiper, and writes your Beare-gar-den Bills, in the forme of Planetary Conjunctions, <hi>Charles</hi> his Wain is but a Cart to you, and <hi>Ariadnes</hi> Crown is at your diſpoſall, <hi>Hesperus</hi> and <hi>Vesperus</hi> lights you to bed and to breakfaſt, the <hi>Pleiades</hi> are your Handmaides, and <hi>Caſtor</hi> and <hi>Pollux</hi> are your Pages.</p>
+            <p>In a word, I hold thee to be more than mortall, and that the <hi>Dra<g ref="char:EOLhyphen"/>gon</hi> being ſicke, and much troubled with the Megrim in the Head, ſo that <hi>Aeſculapius</hi> was ſent by <hi>Iupiter</hi> to give him a Cliſter, which being applyed, the <hi>Dragon</hi> voided thee out of his Taile for a worme. This was once your high eſtate and eſtimation, but how art thou fal<g ref="char:EOLhyphen"/>len, O thou wonder amongſt wiſe men and widgeons; the ſeven Planets are highly and implacably offended with thee, and (inſtead of their influences) they will infuſe into thee ſeven deadly ſins, and all the twelve Signes have ſhut their celeſtiall Gates againſt thee, at the command of <hi>Saturne</hi> and <hi>Iupiter,</hi> the ſtarres are malevolent pre<g ref="char:EOLhyphen"/>tending and portending revenge againſt thee for belying them, and calling and cauſing them to witneſſe thy lying Conjunctions and trai<g ref="char:EOLhyphen"/>terous expoſitions of them. <hi>Aries</hi> will brow-beat thee, with bat<g ref="char:EOLhyphen"/>tering thy ſhameleſſe <hi>Head</hi> and <hi>Face,</hi> and make thee Horne-mad. <hi>Taurus</hi> will gore thee through the <hi>Necke,</hi> and hunch thy Lyes into thy <hi>Throat; Gemini</hi> will baſtinado thine armes and ſhoul<g ref="char:EOLhyphen"/>ders with a cudgell called <hi>Morbus Gallicus; Cancer</hi> ſhall gnaw thy ſlinking <hi>Stomacke,</hi> and (like the worme of conſcience) torment thee,
+<pb n="8" facs="tcp:155240:4"/>he ſhall <hi>crabbedly</hi> torment thee, and Crab-lice ſhall crawle over thee. <hi>Leo</hi> ſhall rage hotly, roare terribly, and bite thee horribly in the Dog<g ref="char:EOLhyphen"/>dayes. <hi>Virgo</hi> ſhall accuſe thee for a Rape, for lying with her againſt her will, and belying of her in thy foiſting fuſtianiſme, for which ſhe will vexe thee to the very <hi>gutts</hi> and <hi>belly,</hi> with <hi>Chollickes, Strangu<g ref="char:EOLhyphen"/>ries, Dropſies, Convulſions,</hi> and <hi>Hippocondraicus. Libra</hi> hath weighed thee in his B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llance, and findes thee too light, his Aequinoctiall Scales ſayes thou wants ſo many Graines either of <hi>Troy</hi> or <hi>Averde<g ref="char:EOLhyphen"/>pois</hi> of honeſty, that he will poſſeſſe thy Reines with the loathſome <hi>Gonorea,</hi> and thy Kidneys with the Stone more feeling and ſenſibly than that of the Philoſophers. <hi>Scorpio</hi> (in <hi>ſecret</hi>) <hi>remembers</hi> thee, therefore look to thy <hi>Prepuce,</hi> be carefull of thy <hi>Priapus,</hi> for he will have a fling at thy <hi>Teſticulanorums.</hi> Thou haſt diſpleaſed <hi>Sagittarius,</hi> in ſhooting dog-bolts and fooles-bolts in his name, without his leave, for the which he will ſhut <hi>Sciatica</hi> ſhafts into thy <hi>Hippes</hi> and huckle<g ref="char:EOLhyphen"/>bones, and pocky arrowes through thy <hi>Thighes. Capricorne</hi> will give thee no more Goates milke, and will ſtrike thy knees into ſuch a ſtif<g ref="char:EOLhyphen"/>neſſe, that thou ſhalt never have the grace to bow them to any other Gods than thoſe of the Cloſe Committee. <hi>Aquarius,</hi> or <hi>Aquaticus,</hi> will daſh and balderdaſh thee, ducke, ſowſe, pumpe and plunge thee, in<g ref="char:EOLhyphen"/>to the bottomleſſe Gulfe of <hi>Mare mortuum;</hi> or if thou ſcape that, he will plague thee with Goutes and Crampes, and laſtly hurle thee headlong into the perpendicularity of the vaſt watry Region; where thou ſhalt irremediably and irrecoverably be crippled in thy feet, root and branch, <hi>cap à pe,</hi> top and taile by <hi>Piſces.</hi>
+            </p>
+            <p>How thinkeſt thou now of thy ſelfe (thou <hi>quondam</hi> wiſedome of five Juſtices) thou haſt ſpun a faire thread, bigge enough to make thee a Gregorian neck-lace, I pray thee do but look in a glaſſe, and ſee the figure of we two, I tell thee, (without ſwearing) that I am very ſory for thee, but I could hardly weep to ſee thee and all thy friends hanged: that's a full point.</p>
+            <p>
+               <hi>Mercurius Aulicus</hi> and <hi>George Naworth</hi> do ſo farre ſlight thee and thy for did railing, as the Lion or Maſtiffe regards not the barking and bawling of a mangie Curte; onely I my ſelfe (yea my very ſelfe) have out of my grace and clemency vouchſafed to deſcend ſo low as to honour thee with this mine Anſwer. If wiſhes were availeable, I would wiſh thee to play the lying Knave no more, give over wri<g ref="char:EOLhyphen"/>ting of Treaſon, and incenſing People to Rebellion, confeſſe thy faults in abuſing of me, and I perhaps will begge thy pardon.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:155240:4" rendition="simple:additions"/>
+            <p>THeſe are to ſignifie, that all Merchants, and o<g ref="char:EOLhyphen"/>thers, that are deſirous weekly to impart beyond Seas, the certain condition of affaires here, and of the proceedings of the War; they ſhall have it weekly publiſhed in Print, in the French Tongue, and every <hi>Thurſday</hi> at nine of the clocke in the mor<g ref="char:EOLhyphen"/>ning: the Reader may have them (if he pleaſe) at Maſter <hi>Bournes</hi> Shop at the old <hi>Exchange:</hi> the Title of the thing is <hi>Le Mercure Anglois,</hi> which a while ſince was begun and continued for two or three weekes, and finding it much deſired, during theſe three weekes paſt, that the publiſhing of it (through ſome occaſions) was diſcontinued: It ſhall for the future be continued according to the moſt certaine, and impartiall Relations of affaires here, to come out at the time and place aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>July 10<hi rend="sup">th</hi> 1644</add>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
